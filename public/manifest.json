@@ -1,0 +1,9 @@
+{
+  "short_name": "Sampsa Recipes",
+  "name": "Sampsa Recipes - food for us",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
